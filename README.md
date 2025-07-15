@@ -1,0 +1,1 @@
+The **Sentiment Analysis System.ipynb** uses the **VADER algorithm** from the **NLTK library** to classify text into positive, negative, or neutral sentiments. It includes text preprocessing with re, data handling using pandas, and visualizations with **matplotlib** and **seaborn**.
